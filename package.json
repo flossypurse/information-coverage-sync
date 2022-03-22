@@ -1,0 +1,13 @@
+{
+  "name": "information-coverage-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cullywakelin@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.2",
+    "js-logger": "^1.6.1",
+    "line-reader": "^0.4.0",
+    "readdirp": "^3.6.0"
+  }
+}
